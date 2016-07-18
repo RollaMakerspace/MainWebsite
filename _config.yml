@@ -12,10 +12,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
-  header_text_feature_image: test_feature.jpg
+     <p>We are working on creating a new space where students and faculty can have access to the tools they need to work on new and exciting projects.</p>
+  header_text_feature_image: imt/test_feature.jpg
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
@@ -27,7 +25,7 @@ theme:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "RollaMakerspace"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,7 +35,7 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter:
   wordpress:
   youtube:
 
