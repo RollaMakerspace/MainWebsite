@@ -12,5 +12,6 @@ It features:
 * T-slot aluminum frame and stand
 * 80mm 24,000 RPM Spindle
 * Controller PC runs Linux CNC
+* Uses standard router bits
 
 ![CNC Router](/img/2016/7/18/cnc_router1.jpg)
