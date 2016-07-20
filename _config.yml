@@ -12,7 +12,7 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>We are working on creating a new space where students and faculty can have access to the tools they need to work on new and exciting projects.</p>
+     <p>We are working on creating a space where students and faculty can have access to the tools they need to work on new and exciting projects.</p>
   header_text_feature_image: img/test_feature.jpg
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
